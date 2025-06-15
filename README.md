@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Skip+the+boilerplate+and+jump+straight+to+building!;Full+Stack+Developer+%7C+VS+Code+Extension+Creator;Building+Amazing+Digital+Experiences!" alt="Typing SVG" />
 </div>
 
-
-
 <div align="center">
   
   [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/dcZ3-rwF)
@@ -22,11 +20,21 @@
   <img src="https://img.shields.io/github/followers/TusharParlikar?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub Followers" />
 </div>
 
+</div>
+
 ---
 
 ## 🚀 About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="30">  **Passionate Developer | Problem Solver | Innovation Enthusiast**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="30">  <strong>Passionate Developer | Problem Solver | Innovation Enthusiast</strong>
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Code-Profile-00D9FF?style=for-the-badge&logo=code&logoColor=white" alt="Code Profile"/>
+  
+</div>
 
 ```javascript
 const tushar = {
