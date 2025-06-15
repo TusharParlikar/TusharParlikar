@@ -1,15 +1,16 @@
 # 👋 Hey there! I'm Tushar Parlikar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Skip+the+boilerplate+and+jump+straight+to+building!;Full+Stack+Developer+%7C+VS+Code+Extension+Creator;Building+Amazing+Digital+Experiences+%26+Developer+Tools!" alt="Typing SVG" />
+  <img src="https://typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Skip+the+boilerplate+and+jump+straight+to+building!;Full+Stack+Developer+%7C+VS+Code+Extension+Creator;Building+Amazing+Digital+Experiences+%26+Developer+Tools!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-    [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/dcZ3-rwF)
+  
+  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/dcZ3-rwF)
   [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://lnkd.in/dBbiQ8H5)
   [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tusharparlikars-projects.vercel.app/)
   [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tparlikar497@gmail.com)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://lnkd.in/d4X2XBFx)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://lnkd.in/d4X2XBFx)
   
 </div>
 
@@ -22,7 +23,7 @@
 
 ## 🚀 About Me
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **Passionate Developer | Problem Solver | Innovation Enthusiast**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="30">  **Passionate Developer | Problem Solver | Innovation Enthusiast**
 
 ```javascript
 const tushar = {
@@ -33,8 +34,8 @@ const tushar = {
     techStack: ["MERN Stack", "Firebase", "Java", "C"],
     specialties: ["VS Code Extensions", "NPM Packages", "Web Development"],
     currentlyLearning: ["ML", "Docker"],
-    funFact: "I build tools that developers love to use! �️",
-    motto: "Code, Create, Contribute! �"
+    funFact: "I build tools that developers love to use! 🛠️",
+    motto: "Code, Create, Contribute! 🚀"
 };
 ```
 
@@ -112,7 +113,7 @@ const tushar = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharParlikar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=TusharParlikar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
@@ -133,10 +134,9 @@ const tushar = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  [![SMART-BOOKMARKS](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=SMART-BOOKMARKS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/SMART-BOOKMARKS)
-  [![Password-Generator](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=password-generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/password-generator)
-  [![7DaysStreak](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=7DaysStreak&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/7DaysStreak)
+<div align="center">  [![SMART-BOOKMARKS](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=SMART-BOOKMARKS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/SMART-BOOKMARKS)
+  [![toolkit-react-cli](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=toolkit-react-cli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/toolkit-react-cli)
+  [![jobportal](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=jobportal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/jobportal)
   [![feedback-system](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=feedback-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/feedback-system)
 
 ### 🌟 Live Projects
@@ -252,23 +252,27 @@ const tushar = {
 
 <div align="center">
   
-  ### 😄 Daily Dose of Humor
-  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=0D1117)
+  ### 😄 Daily Dev Quote
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Dev Quote"/>
   
-  ### 🎵 Spotify Playing
-  [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31k6xxvabkjnqbsbl6qe6gkxyfei)
+  ### 🔥 Current Stats
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharParlikar&theme=tokyonight)
   
-  ### 🐍 Snake Game (GitHub Contributions)
-  ![Snake animation](https://github.com/TusharParlikar/TusharParlikar/blob/output/github-contribution-grid-snake.svg)
+  ### 🏆 Contribution Snake
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" />
+  </picture>
   
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Latest Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=TusharParlikar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharParlikar&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true&custom_title=Tushar's%20Contribution%20Graph" width="100%"/>
 </div>
 
 ---
@@ -322,16 +326,16 @@ const tushar = {
   
   ### 🙏 Thanks for visiting my profile!
   
-  ![Visitor Count](https://profile-counter.glitch.me/TusharParlikar/count.svg)
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=TusharParlikar&label=Profile%20Views&color=00d9ff&icon=5&pretty=true)
   
   **⭐ From [TusharParlikar](https://github.com/TusharParlikar) with ❤️**
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy Coding!</b> 🚀</em>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60"> <em><b>Happy Coding!</b> 🚀</em>
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Building%20Amazing%20Things!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
