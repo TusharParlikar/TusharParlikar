@@ -1,7 +1,11 @@
 # 👋 Hey there! I'm Tushar Parlikar
 
 <div align="center">
-  <img src="https://typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Skip+the+boilerplate+and+jump+straight+to+building!;Full+Stack+Developer+%7C+VS+Code+Extension+Creator;Building+Amazing+Digital+Experiences+%26+Developer+Tools!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Skip+the+boilerplate+and+jump+straight+to+  ### 🔥 Current Stats
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharParlikar&theme=tokyonight)
+  
+  ### 🎮 GitHub Achievement Stats
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharParlikar&show_icons=true&theme=radical&include_all_commits=true&count_private=true)ding!;Full+Stack+Developer+%7C+VS+Code+Extension+Creator;Building+Amazing+Digital+Experiences!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -134,10 +138,14 @@ const tushar = {
 
 ## 🚀 Featured Projects
 
-<div align="center">  [![SMART-BOOKMARKS](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=SMART-BOOKMARKS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/SMART-BOOKMARKS)
+<div align="center">
+  
+  [![SMART-BOOKMARKS](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=SMART-BOOKMARKS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/SMART-BOOKMARKS)
   [![toolkit-react-cli](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=toolkit-react-cli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/toolkit-react-cli)
   [![jobportal](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=jobportal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/jobportal)
   [![feedback-system](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=feedback-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/feedback-system)
+  
+</div>
 
 ### 🌟 Live Projects
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tusharparlikars-projects.vercel.app/)
@@ -218,32 +226,37 @@ const tushar = {
 ## 🌟 Skills Visualization
 
 <div align="center">
-    **Frontend Development**
-  ![Progress](https://progress-bar.dev/90/?title=JavaScript&width=200&color=F7DF1E)
-  ![Progress](https://progress-bar.dev/85/?title=React&width=200&color=61DAFB)
-  ![Progress](https://progress-bar.dev/80/?title=HTML/CSS&width=200&color=E34F26)
-  ![Progress](https://progress-bar.dev/75/?title=Next.js&width=200&color=000000)
   
-  **Backend Development**
-  ![Progress](https://progress-bar.dev/85/?title=Node.js&width=200&color=43853D)
-  ![Progress](https://progress-bar.dev/80/?title=Express.js&width=200&color=000000)
-  ![Progress](https://progress-bar.dev/75/?title=MongoDB&width=200&color=4EA94B)
-  ![Progress](https://progress-bar.dev/75/?title=Firebase&width=200&color=FFCA28)
-  ![Progress](https://progress-bar.dev/70/?title=Supabase&width=200&color=3ECF8E)
-  
-  **Programming Languages**
-  ![Progress](https://progress-bar.dev/90/?title=JavaScript&width=200&color=F7DF1E)
-  ![Progress](https://progress-bar.dev/85/?title=C++&width=200&color=00599C)
-  ![Progress](https://progress-bar.dev/80/?title=Python&width=200&color=3776AB)
-  ![Progress](https://progress-bar.dev/75/?title=Java&width=200&color=ED8B00)
-  ![Progress](https://progress-bar.dev/70/?title=C&width=200&color=00599C)
-  
-  **Developer Tools**
-  ![Progress](https://progress-bar.dev/95/?title=VS_Code&width=200&color=0078D4)
-  ![Progress](https://progress-bar.dev/90/?title=Git/GitHub&width=200&color=F05032)
-  ![Progress](https://progress-bar.dev/85/?title=PyCharm&width=200&color=000000)
-  ![Progress](https://progress-bar.dev/80/?title=NPM&width=200&color=CB3837)
-  
+**Frontend Development**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-75%25-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Backend Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-80%25-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-75%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-75%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-70%25-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Programming Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-85%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-75%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-70%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Developer Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-95%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-85%25-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-80%25-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 </div>
 
 ---
@@ -257,13 +270,15 @@ const tushar = {
   
   ### 🔥 Current Stats
   ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharParlikar&theme=tokyonight)
+    ### � 3D Contribution Calendar
+  ![3D Contribution Calendar](https://github-readme-stats.vercel.app/api?username=TusharParlikar&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
   
-  ### 🏆 Contribution Snake
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" />
-  </picture>
+  ### 💻 Coding Activity Heatmap
+  ![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=TusharParlikar&theme=react-dark&bg_color=0D1117&hide_border=true&line=00D9FF&point=00D9FF&area=true&color=00D9FF)
+  
+  ### 🔥 Streak & Language Stats
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharParlikar&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharParlikar&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00D9FF&text_color=ffffff" alt="Top Languages" width="49%"/>
   
 </div>
 
@@ -326,7 +341,9 @@ const tushar = {
   
   ### 🙏 Thanks for visiting my profile!
   
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=TusharParlikar&label=Profile%20Views&color=00d9ff&icon=5&pretty=true)
+  ![Profile Views](https://komarev.com/ghpvc/?username=TusharParlikar&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+  ![GitHub Followers](https://img.shields.io/github/followers/TusharParlikar?label=Followers&style=for-the-badge&color=00D9FF)
+  ![GitHub Stars](https://img.shields.io/github/stars/TusharParlikar?label=Stars&style=for-the-badge&color=00D9FF)
   
   **⭐ From [TusharParlikar](https://github.com/TusharParlikar) with ❤️**
   
