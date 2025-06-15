@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Tushar Parlikar
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Skip+the+boilerplate+and+jump+straight+to+building!;Full+Stack+Developer+%7C+VS+Code+Extension+Creator;Building+Amazing+Digital+Experiences!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines= Skip+the+boilerplate +and+jump+straight+to+building!;Full+Stack+Developer+%7C+VS+Code+Extension+Creator;Building+Amazing+Digital+Experiences!" alt="Typing SVG" />
 </div>
 
 <div align="center">
