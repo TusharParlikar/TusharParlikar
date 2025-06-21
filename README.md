@@ -125,7 +125,8 @@ const tushar = {
   
   [![SMART-BOOKMARKS](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=SMART-BOOKMARKS&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/SMART-BOOKMARKS)
   [![toolkit-react-cli](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=toolkit-react-cli&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/toolkit-react-cli)
-  [![Trackr - Task Manager]([https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=jobportal&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/jobportal](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=Trackr&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/Trackr))
+  [![Trackr - Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=Trackr&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/Trackr)
+
   [![feedback-system](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=feedback-system&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/feedback-system)
 
 ### 🌟 Live Projects
