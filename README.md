@@ -133,8 +133,8 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TusharParlikar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharParlikar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=TusharParlikar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TusharParlikar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 </div>
 
 <div align="center">
