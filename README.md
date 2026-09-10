@@ -30,7 +30,7 @@ const tushar = {
     name: "Tushar Parlikar",
     role: "AI/ML Engineer | Agentic AI Builder | B.Tech CS (AI & Applications)",
     location: "Pune, India 🇮🇳",
-    currentStack: ["LangChain", "LangGraph", "FastAPI", "scikit-learn", "Ollama"],
+    currentStack: ["LangChain", "LangGraph", "FastAPI", " RAG ", "scikit-learn", "Ollama"],
     coreLanguages: ["Python", "SQL", "C++"],
     building: [
         "RetailIQ — agentic retail assistant (RAG + deep-agent modes)",
