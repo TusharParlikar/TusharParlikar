@@ -120,14 +120,6 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
 - 🎓 CGPA ~8.75 (B.Tech, expected 2027) · HSC 88.33% (2022) · SSC 94.40% (2020)
 
 ---
-
-## 🧮 Currently Prepping
-
-- **DSA** — a 135-session roadmap (plus a gamified 90-day XP/boss-fight version)
-- **SQL/DBMS** — a hyperlinked checklist pruned for AI Engineer relevance
-- **Deep Learning/NLP** — a 7-day paper-reproduction sprint (Word2Vec → RAG)
-- 🎯 Targeting: AI Engineering, Data Science, and Data Analysis roles
-
 ---
 
 ## 📊 GitHub Stats
