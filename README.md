@@ -30,14 +30,14 @@ const tushar = {
     name: "Tushar Parlikar",
     role: "AI/ML Engineer | Agentic AI Builder | B.Tech CS (AI & Applications)",
     location: "Pune, India 🇮🇳",
-    currentStack: ["LangChain", "LangGraph", "FastAPI", " RAG ", "scikit-learn", "Ollama"],
-    coreLanguages: ["Python", "SQL", "C++"],
+    currentStack: ["LangChain", "LangGraph", "FastAPI", " Machine-Learning "," Deep-Learning ","NLP"," RAG ", "scikit-learn", "Ollama"],
+    coreLanguages: ["Python", "SQL", "C++","Javascript"],
     building: [
         "RetailIQ — agentic retail assistant (RAG + deep-agent modes)",
         "ClaimGuard — insurance claim risk assessor"
     ],
     published: "IEEE PuneCon 2025 (Scopus-indexed)",
-    grinding: ["DSA", "System Design", "GenAI/RAG roadmap"],
+    grinding: ["DSA", "ML","DL","NLP", "GenAI/RAG roadmap"],
     motto: "Ship it, then make it agentic 🚀"
 };
 ```
