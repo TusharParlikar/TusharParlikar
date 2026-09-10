@@ -63,9 +63,18 @@ const tushar = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
@@ -87,20 +96,17 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
 - **Student Performance Prediction** — Random Forest / SVM / Logistic Regression, 88% accuracy
 
 <details>
-<summary>🗂️ Other projects & earlier work (web dev, VS Code extensions, NPM)</summary>
+<summary>🗂️ Other Projects & Contributions</summary>
 
 <br>
 
-[![SMART-BOOKMARKS](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=SMART-BOOKMARKS&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/SMART-BOOKMARKS)
-[![toolkit-react-cli](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=toolkit-react-cli&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/toolkit-react-cli)
-[![Trackr](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=Trackr&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/Trackr)
-[![feedback-system](https://github-readme-stats.vercel.app/api/pin/?username=TusharParlikar&repo=feedback-system&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/TusharParlikar/feedback-system)
-
-**Job Portal** — Full-stack app built with Supabase, live at [jobportal-b6097.web.app](https://jobportal-b6097.web.app/)
-
-**Assignment Feedback Generator** — major contributor to a forked repo (enhanced functionality, new features, performance)
-
-Also built VS Code extensions and published NPM packages — [marketplace](https://marketplace.visualstudio.com/publishers/TusharParlikar) · [NPM](https://lnkd.in/dBbiQ8H5) · [Twitter](https://lnkd.in/d4X2XBFx)
+- [SMART-BOOKMARKS](https://github.com/TusharParlikar/SMART-BOOKMARKS)
+- [toolkit-react-cli](https://github.com/TusharParlikar/toolkit-react-cli)
+- [Trackr](https://github.com/TusharParlikar/Trackr) — task manager
+- [feedback-system](https://github.com/TusharParlikar/feedback-system)
+- **Job Portal** — Full-stack app built with Supabase, live at [jobportal-b6097.web.app](https://jobportal-b6097.web.app/)
+- **Assignment Feedback Generator** — major contributor to a forked repo (enhanced functionality, new features, performance)
+- VS Code extensions & NPM packages — [marketplace](https://marketplace.visualstudio.com/publishers/TusharParlikar) · [NPM](https://lnkd.in/dBbiQ8H5) · [Twitter](https://lnkd.in/d4X2XBFx)
 
 </details>
 
@@ -132,59 +138,20 @@ Also built VS Code extensions and published NPM packages — [marketplace](https
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharParlikar&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=TusharParlikar&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ---
 
-## 🎮 Interactive Zone
+## 🐍 Contribution Snake
 
-<details>
-<summary>🤖 Guess my go-to framework for agentic AI</summary>
-
-<br>
-
-**Options:**
-- A) Streamlit only
-- B) LangGraph
-- C) jQuery
-- D) Excel macros
-
-**Answer:** B) LangGraph — RetailIQ's "Analyst" mode runs on it! 🤖
-</details>
-
-<details>
-<summary>🧠 JS brain teaser</summary>
-
-<br>
-
-```javascript
-console.log(typeof typeof 1);
-```
-
-**What will this output?**
-- A) "number"
-- B) "string"
-- C) "undefined"
-- D) "object"
-
-**Answer:** B) "string"! `typeof 1` → "number", then `typeof "number"` → "string" 🤓
-</details>
-
-<details>
-<summary>🔍 RAG or fine-tune?</summary>
-
-<br>
-
-Your AI assistant needs to answer questions from documents that change every day. Do you...
-
-- A) Fine-tune a model on the docs every night
-- B) Use RAG — retrieve the latest docs at query time
-- C) Hardcode the answers
-- D) Ask it nicely to guess
-
-**Answer:** B) RAG — exactly how RetailIQ's Support mode stays current without retraining 📚
-</details>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating its way through my GitHub contribution graph" src="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
 
 ---
 
