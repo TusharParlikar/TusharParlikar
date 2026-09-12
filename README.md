@@ -135,7 +135,7 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
 
 ---
 
-## 🐍 Contribution Snake
+## 🕹️ Contribution Games
 
 <div align="center">
   <picture>
@@ -143,7 +143,10 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" />
     <img alt="A snake eating its way through my GitHub contribution graph" src="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
-</div>
+
+  <br/>
+
+  
 
 ---
 
