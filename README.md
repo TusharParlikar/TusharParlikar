@@ -147,17 +147,6 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
   <br/>
 
   
-
----
-
-## 🎯 Goals for 2026
-
-- [ ] 🚀 Ship RetailIQ end-to-end (RAG + deep-agent modes)
-- [ ] 🛡️ Ship ClaimGuard (FastAPI + ML + LangChain)
-- [ ] 🎓 Land an AI Engineering / Data Science placement or internship
-- [ ] 📄 Publish more research
-- [ ] 🧮 Finish the DSA + SQL + GenAI/RAG prep roadmaps
-
 ---
 
 ## 🤝 Let's Connect!
