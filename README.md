@@ -8,9 +8,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tusharparlikars-projects.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tparlikar497@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=TusharParlikar&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/TusharParlikar?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub Followers" />
-
 </div>
 
 ---
@@ -120,7 +117,6 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
 - 🎓 CGPA ~8.75 (B.Tech, expected 2027) · HSC 88.33% (2022) · SSC 94.40% (2020)
 
 ---
----
 
 ## 📊 GitHub Stats
 
@@ -135,7 +131,7 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
 
 ---
 
-## 🕹️ Contribution Games
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -143,10 +139,8 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" />
     <img alt="A snake eating its way through my GitHub contribution graph" src="https://raw.githubusercontent.com/TusharParlikar/TusharParlikar/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
+</div>
 
-  <br/>
-
-  
 ---
 
 ## 🤝 Let's Connect!
