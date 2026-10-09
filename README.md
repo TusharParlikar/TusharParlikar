@@ -30,8 +30,8 @@ const tushar = {
     currentStack: ["LangChain", "LangGraph", "FastAPI", " Machine-Learning "," Deep-Learning ","NLP"," RAG ", "scikit-learn", "Ollama"],
     coreLanguages: ["Python", "SQL", "C++","Javascript"],
     building: [
-        "RetailIQ — agentic retail assistant (RAG + deep-agent modes)",
-        "ClaimGuard — insurance claim risk assessor"
+        "Invoice Duplicate & Overpayment Detection Engine",
+        "Natural-Language SQL Analytics Assistant"
     ],
     published: "IEEE PuneCon 2025 (Scopus-indexed)",
     grinding: ["DSA", "ML","DL","NLP", "GenAI/RAG roadmap"],
@@ -80,17 +80,38 @@ const tushar = {
 
 ## 🎯 Featured Projects
 
-### 🤖 RetailIQ — Agentic AI Retail Assistant
-Built around real Kaggle datasets. **Support mode** runs on RAG; **Analyst mode** runs a deep-agent workflow. Built with LangChain, LangGraph, and LiteLLM as a 14-day sprint, alongside a series of standalone daily mini-projects across different domains.
-<!-- add repo link here -->
+### 🧾 [Invoice Overpayment & Duplicate Payment Detection Engine](https://github.com/TusharParlikar/Invoice-Overpayment-Duplicate-Payment-Detection-Engine)
+Checks every invoice (photo, scan, PDF, Excel) against payment history before it's paid and returns **OK / REVIEW / SUSPICIOUS** with reasons. Catches the fuzzy duplicates that exact-match ERP checks miss: retyped numbers, OCR slips, shifted dates, vendor name variants. It also flags edited receipt images.
 
-### 🛡️ ClaimGuard — Insurance Claim Risk Assessor
-An insurance claim risk assessor combining a scikit-learn ML model, a LangChain explanation chain, and a FastAPI serving layer — deliberately built as a fresh project, separate from RetailIQ. Runs on a local Ollama (`qwen3:1.7b`) LLM with no cloud API, trained on the RAND Health Insurance Experiment dataset.
-<!-- add repo link here -->
+**Results:** 97–100% of duplicate variants caught · runs locally, no data leaves the machine
 
-### 📊 Earlier ML Projects
-- **Market Basket Analysis** — Apriori algorithm on 50K+ transactions
-- **Student Performance Prediction** — Random Forest / SVM / Logistic Regression, 88% accuracy
+`OCR` `RapidFuzz` `Anomaly Detection` `Streamlit`
+
+### 💬 [Natural-Language SQL Analytics Assistant](https://github.com/TusharParlikar/Natural-Language-SQL-Analytics-Assistant)
+Ask business questions in plain English and get SQL, an answer, a chart and a table. Works on a sample DB or your own CSV/Excel/SQLite uploads, with read-only guardrails and self-correcting retries.
+
+**Results:** 32/32 (100%) execution accuracy on a hand-written eval set
+
+`Text-to-SQL` `Function Calling` `SQLite` `Streamlit` `Ollama`
+
+### 🚚 [Supply Chain Late-Delivery Risk Predictor](https://github.com/TusharParlikar/Supply-Chain-Late-Delivery-Risk-Predictor)
+Plans Indian parcel shipments on Delhivery's network: hub route, tracking-style timeline, delivery dates and per-leg delay risk explained with SHAP.
+
+**Results:** calibrated XGBoost: ROC-AUC 0.865 · Brier 0.125
+
+`XGBoost` `SHAP` `scikit-learn` `Plotly` `Streamlit`
+
+### 🛋️ [Store RAG Bot](https://github.com/TusharParlikar/Store-RAG-Bot)
+Furniture-store chat assistant that figures out what the customer actually needs ("my leg is broken" → armchair + footstool) and answers only from store data, with real prices and policies. If the answer isn't in the data, it says "I don't know".
+
+`RAG` `FAISS` `Ollama / Groq` `Streamlit`
+
+### 🏠 [House Price Prediction API](https://github.com/TusharParlikar/House-Price-Prediction-API)
+Gradient boosting model on California Housing, served as a REST API, a Streamlit form and an HTML test page.
+
+**Results:** R² 0.852 · MAE $29,362
+
+`scikit-learn` `FastAPI` `Streamlit`
 
 <details>
 <summary>🗂️ Other Projects & Contributions</summary>
@@ -126,7 +147,7 @@ An insurance claim risk assessor combining a scikit-learn ML model, a LangChain 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TusharParlikar&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=TusharParlikar&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true&v=2" alt="GitHub Streak Stats"/>
 </div>
 
 ---
