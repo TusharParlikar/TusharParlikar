@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+Agentic+AI+Systems+with+RAG+%26+LangGraph;AI%2FML+Engineer+%7C+GenAI+%26+FastAPI+Builder;B.Tech+CS+%28AI+%26+Applications%29+%40+MIT+ADT+Pune" alt="Typing SVG" />
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/dcZ3-rwF)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusharParlikar)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tusharparlikars-projects.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tparlikar497@gmail.com)
 
@@ -14,30 +14,13 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (AI & Applications) @ MIT Art, Design and Technology University, Pune — Class of 2027
+- 🎓 B.Tech in Computer Science (AI & Applications) @ MIT Art, Design and Technology University, Pune — Class of 2027 · CGPA ~8.75
 - 🤖 Building **agentic AI systems** — RAG pipelines, LangGraph deep-agent workflows, and FastAPI-served ML models
 - 📄 Published, Scopus-indexed **IEEE paper** (PuneCon 2025); co-author on an AI-powered academic assessment platform preprint
 - 🛠️ Technical Team Member @ **ACES Club**
 - 🌱 Deep in placement prep: DSA, SQL/DBMS, and a GenAI/RAG-focused study sprint
 - 💬 Ask me about: **LangChain, LangGraph, FastAPI, RAG, or agentic AI architecture**
 - 📫 **Reach me:** tparlikar497@gmail.com
-
-```javascript
-const tushar = {
-    name: "Tushar Parlikar",
-    role: "AI/ML Engineer | Agentic AI Builder | B.Tech CS (AI & Applications)",
-    location: "Pune, India 🇮🇳",
-    currentStack: ["LangChain", "LangGraph", "FastAPI", " Machine-Learning "," Deep-Learning ","NLP"," RAG ", "scikit-learn", "Ollama"],
-    coreLanguages: ["Python", "SQL", "C++","Javascript"],
-    building: [
-        "Invoice Duplicate & Overpayment Detection Engine",
-        "Natural-Language SQL Analytics Assistant"
-    ],
-    published: "IEEE PuneCon 2025 (Scopus-indexed)",
-    grinding: ["DSA", "ML","DL","NLP", "GenAI/RAG roadmap"],
-    motto: "Ship it, then make it agentic 🚀"
-};
-```
 
 ---
 
@@ -130,20 +113,11 @@ Gradient boosting model on California Housing, served as a REST API, a Streamlit
 
 ---
 
-## 📄 Publications & Achievements
-
-- 📝 IEEE paper, **PuneCon 2025** (Scopus-indexed)
-- 📝 Co-author, AI-powered academic assessment platform (preprint)
-- 🏫 Technical Team Member, ACES Club
-- 🎓 CGPA ~8.75 (B.Tech, expected 2027) · HSC 88.33% (2022) · SSC 94.40% (2020)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=TusharParlikar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TusharParlikar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=TusharParlikar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+  <img height="180" alt="Top languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TusharParlikar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 </div>
 
 <div align="center">
@@ -170,14 +144,4 @@ Gradient boosting model on California Housing, served as a REST API, a Streamlit
 
 I'm always up for collaborating on agentic AI / GenAI projects or talking through interesting ML problems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/dcZ3-rwF)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tparlikar497@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tusharparlikars-projects.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
