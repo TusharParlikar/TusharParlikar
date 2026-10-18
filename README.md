@@ -18,7 +18,6 @@
 - 🤖 Building **agentic AI systems** — RAG pipelines, LangGraph deep-agent workflows, and FastAPI-served ML models
 - 📄 Published, Scopus-indexed **IEEE paper** (PuneCon 2025); co-author on an AI-powered academic assessment platform preprint
 - 🛠️ Technical Team Member @ **ACES Club**
-- 🌱 Deep in placement prep: DSA, SQL/DBMS, and a GenAI/RAG-focused study sprint
 - 💬 Ask me about: **LangChain, LangGraph, FastAPI, RAG, or agentic AI architecture**
 - 📫 **Reach me:** tparlikar497@gmail.com
 
