@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (AI & Applications) @ MIT Art, Design and Technology University, Pune — Class of 2027 · CGPA ~8.73
+- 🎓 B.Tech in Computer Science AIA (AI & Applications) @ MIT Art, Design and Technology University, Pune — Class of 2027 · CGPA ~8.73
 - 🤖 Building **agentic AI systems** — RAG pipelines, LangGraph deep-agent workflows, and FastAPI-served ML models
 - 📄 Published, Scopus-indexed **IEEE paper** (PuneCon 2025); co-author on an AI-powered academic assessment platform preprint
 - 🛠️ Technical Team Member @ **ACES Club**
