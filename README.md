@@ -1,8 +1,8 @@
-# 👋 Hey there! I'm Tushar Parlikar
+# 👋 Hey, I'm Tushar Parlikar
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+Agentic+AI+Systems+with+RAG+%26+LangGraph;AI%2FML+Engineer+%7C+GenAI+%26+FastAPI+Builder;B.Tech+CS+%28AI+%26+Applications%29+%40+MIT+ADT+Pune" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=I+build+AI+that+checks+its+own+work;RAG+%7C+LangGraph+%7C+FastAPI+%7C+ML+in+production-style+apps;B.Tech+CS+%28AI+%26+Applications%29+%40+MIT+ADT+Pune" alt="Typing SVG" />
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusharParlikar)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tusharparlikars-projects.vercel.app/)
@@ -14,10 +14,11 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science AIA (AI & Applications) @ MIT Art, Design and Technology University, Pune — Class of 2027 · CGPA ~8.73
-- 🤖 Building **agentic AI systems** — RAG pipelines, LangGraph deep-agent workflows, and FastAPI-served ML models
-- 📄 Published, Scopus-indexed **IEEE paper** (PuneCon 2025); co-author on an AI-powered academic assessment platform preprint
+- 🎓 B.Tech, Computer Science (AI & Applications) @ **MIT ADT University, Pune** · Class of 2027 · CGPA ~8.73
+- 🤖 I build **agentic AI systems**: RAG pipelines, LangGraph workflows, and ML models served through FastAPI
+- 📄 **Published, Scopus-indexed IEEE paper** (PuneCon 2025) + co-author on a preprint about an AI-powered academic assessment platform
 - 🛠️ Technical Team Member @ **ACES Club**
+- 🧪 My habit: every project gets a **measured result** (eval set, AUC, MAE, catch-rate), not just a demo
 - 📫 **Reach me:** tparlikar497@gmail.com
 
 ---
@@ -26,13 +27,15 @@
 
 <div align="center">
 
-### 🤖 AI / GenAI
+### 🤖 AI / GenAI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-4B32C3?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🗄️ Languages & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,38 +64,28 @@
 
 ## 🎯 Featured Projects
 
-### 🧾 [Invoice Overpayment & Duplicate Payment Detection Engine](https://github.com/TusharParlikar/Invoice-Overpayment-Duplicate-Payment-Detection-Engine)
-Checks every invoice (photo, scan, PDF, Excel) against payment history before it's paid and returns **OK / REVIEW / SUSPICIOUS** with reasons. Catches the fuzzy duplicates that exact-match ERP checks miss: retyped numbers, OCR slips, shifted dates, vendor name variants. It also flags edited receipt images.
+| Project | What it does | Proof it works |
+|---|---|---|
+| 🧾 [**Invoice Overpayment & Duplicate Detection**](https://github.com/TusharParlikar/Invoice-Overpayment-Duplicate-Payment-Detection-Engine) | Checks photos/scans/PDFs/Excel invoices against payment history → **OK / REVIEW / SUSPICIOUS** with reasons. Catches fuzzy duplicates and edited receipt images. | **97–100%** of duplicate variants caught · fully local |
+| 💬 [**Natural-Language SQL Assistant**](https://github.com/TusharParlikar/Natural-Language-SQL-Analytics-Assistant) | Plain-English question → SQL, answer, chart, table. Read-only guardrails + self-correcting retries. | **32/32 (100%)** execution accuracy on a hand-written eval set |
+| 🚚 [**Late-Delivery Risk Predictor**](https://github.com/TusharParlikar/Supply-Chain-Late-Delivery-Risk-Predictor) | Plans Indian parcel shipments on Delhivery's network: hub route, timeline, dates, per-leg delay risk explained with SHAP. | Calibrated XGBoost · **ROC-AUC 0.865** · **Brier 0.125** |
+| 🛋️ [**Store RAG Bot**](https://github.com/TusharParlikar/Store-RAG-Bot) | Understands the real need ("my leg is broken" → armchair + footstool), answers only from store data, says "I don't know" otherwise. | Grounded answers with real prices & policies |
+| 🏠 [**House Price Prediction API**](https://github.com/TusharParlikar/House-Price-Prediction-API) | Gradient boosting on California Housing, served as REST API + Streamlit form + HTML test page. | **R² 0.852** · **MAE $29,362** |
 
-**Results:** 97–100% of duplicate variants caught · runs locally, no data leaves the machine
+### 🔍 Deep dives
 
-`OCR` `RapidFuzz` `Anomaly Detection` `Streamlit`
+**🧾 Invoice Detection Engine** — `OCR` `RapidFuzz` `Anomaly Detection` `Streamlit`
+Exact-match ERP checks miss retyped numbers, OCR slips, shifted dates and vendor-name variants. This catches them, and runs locally so no data leaves the machine.
 
-### 💬 [Natural-Language SQL Analytics Assistant](https://github.com/TusharParlikar/Natural-Language-SQL-Analytics-Assistant)
-Ask business questions in plain English and get SQL, an answer, a chart and a table. Works on a sample DB or your own CSV/Excel/SQLite uploads, with read-only guardrails and self-correcting retries.
+**💬 NL-SQL Assistant** — `Text-to-SQL` `Function Calling` `SQLite` `Streamlit` `Ollama`
+Works on a sample DB or your own CSV/Excel/SQLite upload. Queries that fail get fixed and retried automatically.
 
-**Results:** 32/32 (100%) execution accuracy on a hand-written eval set
+**🚚 Late-Delivery Predictor** — `XGBoost` `SHAP` `scikit-learn` `Plotly` `Streamlit`
+Doesn't just say "risky": it shows *which* factors push each leg's delay risk up.
 
-`Text-to-SQL` `Function Calling` `SQLite` `Streamlit` `Ollama`
+**🛋️ Store RAG Bot** — `RAG` `FAISS` `Ollama / Groq` `Streamlit`
 
-### 🚚 [Supply Chain Late-Delivery Risk Predictor](https://github.com/TusharParlikar/Supply-Chain-Late-Delivery-Risk-Predictor)
-Plans Indian parcel shipments on Delhivery's network: hub route, tracking-style timeline, delivery dates and per-leg delay risk explained with SHAP.
-
-**Results:** calibrated XGBoost: ROC-AUC 0.865 · Brier 0.125
-
-`XGBoost` `SHAP` `scikit-learn` `Plotly` `Streamlit`
-
-### 🛋️ [Store RAG Bot](https://github.com/TusharParlikar/Store-RAG-Bot)
-Furniture-store chat assistant that figures out what the customer actually needs ("my leg is broken" → armchair + footstool) and answers only from store data, with real prices and policies. If the answer isn't in the data, it says "I don't know".
-
-`RAG` `FAISS` `Ollama / Groq` `Streamlit`
-
-### 🏠 [House Price Prediction API](https://github.com/TusharParlikar/House-Price-Prediction-API)
-Gradient boosting model on California Housing, served as a REST API, a Streamlit form and an HTML test page.
-
-**Results:** R² 0.852 · MAE $29,362
-
-`scikit-learn` `FastAPI` `Streamlit`
+**🏠 House Price API** — `scikit-learn` `FastAPI` `Streamlit`
 
 <details>
 <summary>🗂️ Other Projects & Contributions</summary>
@@ -103,7 +96,7 @@ Gradient boosting model on California Housing, served as a REST API, a Streamlit
 - [toolkit-react-cli](https://github.com/TusharParlikar/toolkit-react-cli)
 - [Trackr](https://github.com/TusharParlikar/Trackr) — task manager
 - [feedback-system](https://github.com/TusharParlikar/feedback-system)
-- **Job Portal** — Full-stack app built with Supabase, live at [jobportal-b6097.web.app](https://jobportal-b6097.web.app/)
+- **Job Portal** — full-stack app built with Supabase, live at [jobportal-b6097.web.app](https://jobportal-b6097.web.app/)
 - **Assignment Feedback Generator** — major contributor to a forked repo (enhanced functionality, new features, performance)
 - VS Code extensions & NPM packages — [marketplace](https://marketplace.visualstudio.com/publishers/TusharParlikar) · [NPM](https://lnkd.in/dBbiQ8H5) · [Twitter](https://lnkd.in/d4X2XBFx)
 
@@ -136,10 +129,11 @@ Gradient boosting model on California Housing, served as a REST API, a Streamlit
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always up for collaborating on agentic AI / GenAI projects or talking through interesting ML problems.
+Open to collaborating on **agentic AI / GenAI** projects, or talking through a messy ML problem.
+Ask me about: *RAG that refuses to hallucinate · fuzzy duplicate detection · explaining model risk with SHAP.*
 
 </div>
