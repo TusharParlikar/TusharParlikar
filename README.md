@@ -107,12 +107,12 @@ Doesn't just say "risky": it shows *which* factors push each leg's delay risk up
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=TusharParlikar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&v=3"/>
-  <img height="180" alt="Top languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TusharParlikar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&v=3"/>
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TusharParlikar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&cache_seconds=43200"/>
+  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharParlikar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=43200"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TusharParlikar&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true&v=3" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=TusharParlikar&theme=react&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ---
