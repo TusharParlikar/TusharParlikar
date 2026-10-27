@@ -12,6 +12,17 @@
 
 ---
 
+## 🚀 About Me
+
+- 🎓 B.Tech, Computer Science (AI & Applications) @ **MIT ADT University, Pune** · Class of 2027 · CGPA ~8.73
+- 🤖 I build **agentic AI systems**: RAG pipelines, LangGraph workflows, and ML models served through FastAPI
+- 📄 **Published, Scopus-indexed IEEE paper** (PuneCon 2025) + co-author on a preprint about an AI-powered academic assessment platform
+- 🛠️ Technical Team Member @ **ACES Club**
+- 🧪 My habit: every project gets a **measured result** (eval set, AUC, MAE, catch-rate), not just a demo
+- 📫 **Reach me:** tparlikar497@gmail.com
+
+---
+
 ## 🛠️ Skills
 
 <div align="center">
